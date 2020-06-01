@@ -17,6 +17,8 @@ Scenario:  Add a new Customer
 			When User  enter Customer info
 			And Click on save button
 			Then User can view Confirmation Message "The new customer has been added successfully"
+			When User click on Log out
+			Then Page title shoulde be "Your store. Login"
 			And Close the Browser
 		
 @Regression	
@@ -27,6 +29,8 @@ Scenario: Search Customer by EmailID
 			And Enter Customer Email
 			When Click on Search button
 			Then User should found Email in the Search table
+			When User click on Log out
+			Then Page title shoulde be "Your store. Login"
 			And Close the Browser
 
 @Regression
@@ -38,4 +42,6 @@ Scenario: Search Customer by Name
 			And Enter Customer LastName
 			When Click on Search button
 			Then User should found Name in the Search table
+			When User click on Log out
+			Then Page title shoulde be "Your store. Login"
 			And Close the Browser

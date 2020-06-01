@@ -143,6 +143,26 @@ formatter.result({
   "status": "passed"
 });
 formatter.step({
+  "name": "User click on Log out",
+  "keyword": "When "
+});
+formatter.match({
+  "location": "StepDefinitions.TestSteps.user_click_on_Log_out()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Page title shoulde be \"Your store. Login\"",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "StepDefinitions.TestSteps.page_title_shoulde_be(java.lang.String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
   "name": "Close the Browser",
   "keyword": "And "
 });
@@ -266,6 +286,26 @@ formatter.step({
 });
 formatter.match({
   "location": "StepDefinitions.TestSteps.user_should_found_Email_in_the_Search_table()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "User click on Log out",
+  "keyword": "When "
+});
+formatter.match({
+  "location": "StepDefinitions.TestSteps.user_click_on_Log_out()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Page title shoulde be \"Your store. Login\"",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "StepDefinitions.TestSteps.page_title_shoulde_be(java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -404,6 +444,26 @@ formatter.step({
 });
 formatter.match({
   "location": "StepDefinitions.TestSteps.user_should_found_Name_in_the_Search_table()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "User click on Log out",
+  "keyword": "When "
+});
+formatter.match({
+  "location": "StepDefinitions.TestSteps.user_click_on_Log_out()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Page title shoulde be \"Your store. Login\"",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "StepDefinitions.TestSteps.page_title_shoulde_be(java.lang.String)"
 });
 formatter.result({
   "status": "passed"
