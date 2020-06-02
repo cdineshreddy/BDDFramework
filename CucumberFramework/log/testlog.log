@@ -347,3 +347,78 @@
 2020-06-01 12:14:03,171 - nopCommerce -INFO - Configured the Password
 2020-06-01 12:14:03,750 - nopCommerce -INFO - Clicked on the Login button
 2020-06-01 12:14:03,766 - nopCommerce -WARN - Unable to login to the application
+2020-06-01 15:36:13,022 - nopCommerce -INFO - Browser has opened..................
+2020-06-01 15:36:15,065 - nopCommerce -INFO - Launched the URL..................
+2020-06-01 15:36:17,276 - nopCommerce -INFO - Browser has maximeszed............
+2020-06-01 15:36:17,830 - nopCommerce -INFO - Configured the Uername
+2020-06-01 15:36:18,104 - nopCommerce -INFO - Configured the Password
+2020-06-01 15:36:23,758 - nopCommerce -INFO - Clicked on the Login button
+2020-06-01 15:36:23,778 - nopCommerce -INFO - Üser navigated to the Dashboard page
+2020-06-01 15:36:26,965 - nopCommerce -INFO - Clicked on the Customer Menu
+2020-06-01 15:36:30,813 - nopCommerce -INFO - Clicked on the Customer Menu Item
+2020-06-01 15:36:33,245 - nopCommerce -INFO - Clicked on the Add new customer
+2020-06-01 15:36:36,276 - nopCommerce -INFO - User navigated to the Add new Customer page
+2020-06-01 15:36:36,276 - nopCommerce -INFO - User is configuring the required details
+2020-06-01 15:36:45,762 - nopCommerce -INFO - User configured all the required details
+2020-06-01 15:36:48,149 - nopCommerce -INFO - Clicked on the Save button
+2020-06-01 15:36:53,565 - nopCommerce -INFO - Click on the Logout button
+2020-06-01 15:36:58,619 - nopCommerce -INFO - Successfully logout from the application
+2020-06-01 15:36:58,795 - nopCommerce -INFO - Successfully closed the browser
+2020-06-01 15:37:02,292 - nopCommerce -INFO - Browser has opened..................
+2020-06-01 15:37:04,115 - nopCommerce -INFO - Launched the URL..................
+2020-06-01 15:37:06,312 - nopCommerce -INFO - Browser has maximeszed............
+2020-06-01 15:37:06,732 - nopCommerce -INFO - Configured the Uername
+2020-06-01 15:37:07,050 - nopCommerce -INFO - Configured the Password
+2020-06-01 15:37:12,817 - nopCommerce -INFO - Clicked on the Login button
+2020-06-01 15:37:12,853 - nopCommerce -INFO - Üser navigated to the Dashboard page
+2020-06-01 15:37:16,034 - nopCommerce -INFO - Clicked on the Customer Menu
+2020-06-01 15:37:19,878 - nopCommerce -INFO - Clicked on the Customer Menu Item
+2020-06-01 15:37:20,752 - nopCommerce -INFO - User entered the email id
+2020-06-01 15:37:21,064 - nopCommerce -INFO - Cliked on the serach button
+2020-06-01 15:37:24,290 - nopCommerce -INFO - User able to the find the customer record
+2020-06-01 15:37:26,415 - nopCommerce -INFO - Click on the Logout button
+2020-06-01 15:37:31,479 - nopCommerce -INFO - Successfully logout from the application
+2020-06-01 15:37:31,691 - nopCommerce -INFO - Successfully closed the browser
+2020-06-01 15:37:35,201 - nopCommerce -INFO - Browser has opened..................
+2020-06-01 15:37:37,189 - nopCommerce -INFO - Launched the URL..................
+2020-06-01 15:37:39,367 - nopCommerce -INFO - Browser has maximeszed............
+2020-06-01 15:37:39,878 - nopCommerce -INFO - Configured the Uername
+2020-06-01 15:37:40,206 - nopCommerce -INFO - Configured the Password
+2020-06-01 15:37:45,066 - nopCommerce -INFO - Clicked on the Login button
+2020-06-01 15:37:45,081 - nopCommerce -INFO - Üser navigated to the Dashboard page
+2020-06-01 15:37:48,305 - nopCommerce -INFO - Clicked on the Customer Menu
+2020-06-01 15:37:52,941 - nopCommerce -INFO - Clicked on the Customer Menu Item
+2020-06-01 15:37:53,414 - nopCommerce -INFO - User entered the First Name
+2020-06-01 15:37:53,962 - nopCommerce -INFO - User entered the Last Name
+2020-06-01 15:37:54,256 - nopCommerce -INFO - Cliked on the serach button
+2020-06-01 15:37:57,475 - nopCommerce -INFO - User able to the find the customer record
+2020-06-01 15:37:59,490 - nopCommerce -INFO - Click on the Logout button
+2020-06-01 15:38:04,553 - nopCommerce -INFO - Successfully logout from the application
+2020-06-01 15:38:04,764 - nopCommerce -INFO - Successfully closed the browser
+2020-06-01 15:38:08,344 - nopCommerce -INFO - Browser has opened..................
+2020-06-01 15:38:10,116 - nopCommerce -INFO - Launched the URL..................
+2020-06-01 15:38:12,298 - nopCommerce -INFO - Browser has maximeszed............
+2020-06-01 15:38:12,704 - nopCommerce -INFO - Configured the Uername
+2020-06-01 15:38:13,019 - nopCommerce -INFO - Configured the Password
+2020-06-01 15:38:17,687 - nopCommerce -INFO - Clicked on the Login button
+2020-06-01 15:38:17,864 - nopCommerce -INFO - Successfully login to the application
+2020-06-01 15:38:19,864 - nopCommerce -INFO - Click on the Logout button
+2020-06-01 15:38:24,917 - nopCommerce -INFO - Successfully logout from the application
+2020-06-01 15:38:25,120 - nopCommerce -INFO - Successfully closed the browser
+2020-06-01 15:38:28,735 - nopCommerce -INFO - Browser has opened..................
+2020-06-01 15:38:29,723 - nopCommerce -INFO - Launched the URL..................
+2020-06-01 15:38:31,911 - nopCommerce -INFO - Browser has maximeszed............
+2020-06-01 15:38:32,396 - nopCommerce -INFO - Configured the Uername
+2020-06-01 15:38:32,731 - nopCommerce -INFO - Configured the Password
+2020-06-01 15:38:36,974 - nopCommerce -INFO - Clicked on the Login button
+2020-06-01 15:38:37,042 - nopCommerce -INFO - Successfully login to the application
+2020-06-01 15:38:38,990 - nopCommerce -INFO - Click on the Logout button
+2020-06-01 15:38:44,060 - nopCommerce -INFO - Successfully logout from the application
+2020-06-01 15:38:44,284 - nopCommerce -INFO - Successfully closed the browser
+2020-06-01 15:38:47,753 - nopCommerce -INFO - Browser has opened..................
+2020-06-01 15:38:49,638 - nopCommerce -INFO - Launched the URL..................
+2020-06-01 15:38:51,846 - nopCommerce -INFO - Browser has maximeszed............
+2020-06-01 15:38:52,346 - nopCommerce -INFO - Configured the Uername
+2020-06-01 15:38:52,666 - nopCommerce -INFO - Configured the Password
+2020-06-01 15:38:54,177 - nopCommerce -INFO - Clicked on the Login button
+2020-06-01 15:38:54,208 - nopCommerce -WARN - Unable to login to the application

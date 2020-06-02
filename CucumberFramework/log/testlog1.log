@@ -347,3 +347,78 @@
 2020-06-01 12:14:03,171 [main] INFO nopCommerce - Configured the Password
 2020-06-01 12:14:03,750 [main] INFO nopCommerce - Clicked on the Login button
 2020-06-01 12:14:03,766 [main] WARN nopCommerce - Unable to login to the application
+2020-06-01 15:36:13,022 [main] INFO nopCommerce - Browser has opened..................
+2020-06-01 15:36:15,065 [main] INFO nopCommerce - Launched the URL..................
+2020-06-01 15:36:17,276 [main] INFO nopCommerce - Browser has maximeszed............
+2020-06-01 15:36:17,830 [main] INFO nopCommerce - Configured the Uername
+2020-06-01 15:36:18,104 [main] INFO nopCommerce - Configured the Password
+2020-06-01 15:36:23,758 [main] INFO nopCommerce - Clicked on the Login button
+2020-06-01 15:36:23,778 [main] INFO nopCommerce - Üser navigated to the Dashboard page
+2020-06-01 15:36:26,965 [main] INFO nopCommerce - Clicked on the Customer Menu
+2020-06-01 15:36:30,813 [main] INFO nopCommerce - Clicked on the Customer Menu Item
+2020-06-01 15:36:33,245 [main] INFO nopCommerce - Clicked on the Add new customer
+2020-06-01 15:36:36,276 [main] INFO nopCommerce - User navigated to the Add new Customer page
+2020-06-01 15:36:36,276 [main] INFO nopCommerce - User is configuring the required details
+2020-06-01 15:36:45,762 [main] INFO nopCommerce - User configured all the required details
+2020-06-01 15:36:48,149 [main] INFO nopCommerce - Clicked on the Save button
+2020-06-01 15:36:53,565 [main] INFO nopCommerce - Click on the Logout button
+2020-06-01 15:36:58,619 [main] INFO nopCommerce - Successfully logout from the application
+2020-06-01 15:36:58,795 [main] INFO nopCommerce - Successfully closed the browser
+2020-06-01 15:37:02,292 [main] INFO nopCommerce - Browser has opened..................
+2020-06-01 15:37:04,115 [main] INFO nopCommerce - Launched the URL..................
+2020-06-01 15:37:06,312 [main] INFO nopCommerce - Browser has maximeszed............
+2020-06-01 15:37:06,732 [main] INFO nopCommerce - Configured the Uername
+2020-06-01 15:37:07,050 [main] INFO nopCommerce - Configured the Password
+2020-06-01 15:37:12,817 [main] INFO nopCommerce - Clicked on the Login button
+2020-06-01 15:37:12,853 [main] INFO nopCommerce - Üser navigated to the Dashboard page
+2020-06-01 15:37:16,034 [main] INFO nopCommerce - Clicked on the Customer Menu
+2020-06-01 15:37:19,878 [main] INFO nopCommerce - Clicked on the Customer Menu Item
+2020-06-01 15:37:20,752 [main] INFO nopCommerce - User entered the email id
+2020-06-01 15:37:21,064 [main] INFO nopCommerce - Cliked on the serach button
+2020-06-01 15:37:24,290 [main] INFO nopCommerce - User able to the find the customer record
+2020-06-01 15:37:26,415 [main] INFO nopCommerce - Click on the Logout button
+2020-06-01 15:37:31,479 [main] INFO nopCommerce - Successfully logout from the application
+2020-06-01 15:37:31,691 [main] INFO nopCommerce - Successfully closed the browser
+2020-06-01 15:37:35,201 [main] INFO nopCommerce - Browser has opened..................
+2020-06-01 15:37:37,189 [main] INFO nopCommerce - Launched the URL..................
+2020-06-01 15:37:39,367 [main] INFO nopCommerce - Browser has maximeszed............
+2020-06-01 15:37:39,878 [main] INFO nopCommerce - Configured the Uername
+2020-06-01 15:37:40,206 [main] INFO nopCommerce - Configured the Password
+2020-06-01 15:37:45,066 [main] INFO nopCommerce - Clicked on the Login button
+2020-06-01 15:37:45,081 [main] INFO nopCommerce - Üser navigated to the Dashboard page
+2020-06-01 15:37:48,305 [main] INFO nopCommerce - Clicked on the Customer Menu
+2020-06-01 15:37:52,941 [main] INFO nopCommerce - Clicked on the Customer Menu Item
+2020-06-01 15:37:53,414 [main] INFO nopCommerce - User entered the First Name
+2020-06-01 15:37:53,962 [main] INFO nopCommerce - User entered the Last Name
+2020-06-01 15:37:54,256 [main] INFO nopCommerce - Cliked on the serach button
+2020-06-01 15:37:57,475 [main] INFO nopCommerce - User able to the find the customer record
+2020-06-01 15:37:59,490 [main] INFO nopCommerce - Click on the Logout button
+2020-06-01 15:38:04,553 [main] INFO nopCommerce - Successfully logout from the application
+2020-06-01 15:38:04,764 [main] INFO nopCommerce - Successfully closed the browser
+2020-06-01 15:38:08,344 [main] INFO nopCommerce - Browser has opened..................
+2020-06-01 15:38:10,116 [main] INFO nopCommerce - Launched the URL..................
+2020-06-01 15:38:12,298 [main] INFO nopCommerce - Browser has maximeszed............
+2020-06-01 15:38:12,704 [main] INFO nopCommerce - Configured the Uername
+2020-06-01 15:38:13,019 [main] INFO nopCommerce - Configured the Password
+2020-06-01 15:38:17,687 [main] INFO nopCommerce - Clicked on the Login button
+2020-06-01 15:38:17,864 [main] INFO nopCommerce - Successfully login to the application
+2020-06-01 15:38:19,864 [main] INFO nopCommerce - Click on the Logout button
+2020-06-01 15:38:24,917 [main] INFO nopCommerce - Successfully logout from the application
+2020-06-01 15:38:25,120 [main] INFO nopCommerce - Successfully closed the browser
+2020-06-01 15:38:28,735 [main] INFO nopCommerce - Browser has opened..................
+2020-06-01 15:38:29,723 [main] INFO nopCommerce - Launched the URL..................
+2020-06-01 15:38:31,911 [main] INFO nopCommerce - Browser has maximeszed............
+2020-06-01 15:38:32,396 [main] INFO nopCommerce - Configured the Uername
+2020-06-01 15:38:32,731 [main] INFO nopCommerce - Configured the Password
+2020-06-01 15:38:36,974 [main] INFO nopCommerce - Clicked on the Login button
+2020-06-01 15:38:37,042 [main] INFO nopCommerce - Successfully login to the application
+2020-06-01 15:38:38,990 [main] INFO nopCommerce - Click on the Logout button
+2020-06-01 15:38:44,060 [main] INFO nopCommerce - Successfully logout from the application
+2020-06-01 15:38:44,284 [main] INFO nopCommerce - Successfully closed the browser
+2020-06-01 15:38:47,753 [main] INFO nopCommerce - Browser has opened..................
+2020-06-01 15:38:49,638 [main] INFO nopCommerce - Launched the URL..................
+2020-06-01 15:38:51,846 [main] INFO nopCommerce - Browser has maximeszed............
+2020-06-01 15:38:52,346 [main] INFO nopCommerce - Configured the Uername
+2020-06-01 15:38:52,666 [main] INFO nopCommerce - Configured the Password
+2020-06-01 15:38:54,177 [main] INFO nopCommerce - Clicked on the Login button
+2020-06-01 15:38:54,208 [main] WARN nopCommerce - Unable to login to the application
