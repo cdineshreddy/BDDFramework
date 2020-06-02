@@ -422,3 +422,53 @@
 2020-06-01 15:38:52,666 [main] INFO nopCommerce - Configured the Password
 2020-06-01 15:38:54,177 [main] INFO nopCommerce - Clicked on the Login button
 2020-06-01 15:38:54,208 [main] WARN nopCommerce - Unable to login to the application
+2020-06-02 20:57:46,810 [main] INFO nopCommerce - Browser has opened..................
+2020-06-02 21:11:00,328 [main] INFO nopCommerce - Browser has opened..................
+2020-06-02 21:11:01,921 [main] INFO nopCommerce - Launched the URL..................
+2020-06-02 21:11:04,077 [main] INFO nopCommerce - Browser has maximeszed............
+2020-06-02 21:11:04,278 [main] INFO nopCommerce - Configured the Uername
+2020-06-02 21:11:04,398 [main] INFO nopCommerce - Configured the Password
+2020-06-02 21:11:10,218 [main] INFO nopCommerce - Clicked on the Login button
+2020-06-02 21:11:10,278 [main] INFO nopCommerce - Successfully login to the application
+2020-06-02 21:11:12,608 [main] INFO nopCommerce - Click on the Logout button
+2020-06-02 21:11:17,644 [main] INFO nopCommerce - Successfully logout from the application
+2020-06-02 21:13:38,127 [main] INFO nopCommerce - Browser has opened..................
+2020-06-02 21:13:39,678 [main] INFO nopCommerce - Launched the URL..................
+2020-06-02 21:13:41,852 [main] INFO nopCommerce - Browser has maximeszed............
+2020-06-02 21:13:42,101 [main] INFO nopCommerce - Configured the Uername
+2020-06-02 21:13:42,224 [main] INFO nopCommerce - Configured the Password
+2020-06-02 21:13:47,018 [main] INFO nopCommerce - Clicked on the Login button
+2020-06-02 21:13:47,076 [main] WARN nopCommerce - Unable to logout the application
+2020-06-02 21:17:14,319 [main] INFO nopCommerce - Browser has opened..................
+2020-06-02 21:17:16,052 [main] INFO nopCommerce - Launched the URL..................
+2020-06-02 21:17:18,202 [main] INFO nopCommerce - Browser has maximeszed............
+2020-06-02 21:17:18,467 [main] INFO nopCommerce - Configured the Uername
+2020-06-02 21:17:18,587 [main] INFO nopCommerce - Configured the Password
+2020-06-02 21:17:22,675 [main] INFO nopCommerce - Clicked on the Login button
+2020-06-02 21:17:22,699 [main] INFO nopCommerce - Üser navigated to the Dashboard page
+2020-06-02 21:26:29,511 [main] INFO nopCommerce - Browser has opened..................
+2020-06-02 21:26:31,232 [main] INFO nopCommerce - Launched the URL..................
+2020-06-02 21:26:33,383 [main] INFO nopCommerce - Browser has maximeszed............
+2020-06-02 21:26:33,590 [main] INFO nopCommerce - Configured the Uername
+2020-06-02 21:26:33,720 [main] INFO nopCommerce - Configured the Password
+2020-06-02 21:26:38,597 [main] INFO nopCommerce - Clicked on the Login button
+2020-06-02 21:26:38,642 [main] INFO nopCommerce - Üser navigated to the Dashboard page
+2020-06-02 21:26:38,776 [main] INFO nopCommerce - Clicked on the Sales Menu item
+2020-06-02 21:26:38,889 [main] INFO nopCommerce - Clicked on the Orders Link
+2020-06-02 21:26:55,096 [main] INFO nopCommerce - Configuring the email id
+2020-06-02 21:26:55,262 [main] INFO nopCommerce - Clicked on the Serach button
+2020-06-02 21:29:05,684 [main] INFO nopCommerce - Browser has opened..................
+2020-06-02 21:29:07,222 [main] INFO nopCommerce - Launched the URL..................
+2020-06-02 21:29:09,377 [main] INFO nopCommerce - Browser has maximeszed............
+2020-06-02 21:29:09,591 [main] INFO nopCommerce - Configured the Uername
+2020-06-02 21:29:09,719 [main] INFO nopCommerce - Configured the Password
+2020-06-02 21:29:13,789 [main] INFO nopCommerce - Clicked on the Login button
+2020-06-02 21:29:13,947 [main] INFO nopCommerce - Üser navigated to the Dashboard page
+2020-06-02 21:29:14,114 [main] INFO nopCommerce - Clicked on the Sales Menu item
+2020-06-02 21:29:15,838 [main] INFO nopCommerce - Clicked on the Orders Link
+2020-06-02 21:29:16,219 [main] INFO nopCommerce - Configuring the email id
+2020-06-02 21:29:16,383 [main] INFO nopCommerce - Clicked on the Serach button
+2020-06-02 21:29:21,579 [main] INFO nopCommerce - Validated the Customer details
+2020-06-02 21:29:23,256 [main] INFO nopCommerce - Click on the Logout button
+2020-06-02 21:29:28,297 [main] INFO nopCommerce - Successfully logout from the application
+2020-06-02 21:29:28,406 [main] INFO nopCommerce - Successfully closed the browser

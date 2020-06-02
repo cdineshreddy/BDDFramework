@@ -6,6 +6,7 @@ import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import PageObjects.AddCustomerPage;
 import PageObjects.LoginPage;
+import PageObjects.SalesPage;
 import PageObjects.SearchCustomerPage;
 
 public class BaseClass {
@@ -14,6 +15,7 @@ public class BaseClass {
 	public  LoginPage lp;
 	public  AddCustomerPage addCust;
 	public  SearchCustomerPage sc;
+	public  SalesPage sp;
 	public static Logger logger;
 	public Properties prop;
 

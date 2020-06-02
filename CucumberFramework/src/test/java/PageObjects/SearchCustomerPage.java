@@ -68,6 +68,8 @@ public class SearchCustomerPage {
 	@FindBy(xpath="//table[@id='customers-grid']//tbody/tr/td")
 	List<WebElement> tableColumns;
 	
+
+	
 	public void setEmail(String email) {
 		waitHelper.waitForElement(txtEmail, 30);
 		txtEmail.clear();

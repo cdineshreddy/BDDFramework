@@ -12,6 +12,7 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import PageObjects.AddCustomerPage;
 import PageObjects.LoginPage;
+import PageObjects.SalesPage;
 import PageObjects.SearchCustomerPage;
 import io.cucumber.java.Before;
 import io.cucumber.java.en.*;
@@ -233,5 +234,40 @@ public class TestSteps extends BaseClass{
 	   logger.info("User able to the find the customer record");
 		
 	}
-
+	
+	//Steps for Search a Customer by using Email address
+	
+		
+	@Then("Click on the Sales Menu item")
+	public void click_on_the_Sales_Menu_item() {
+	  sp=new SalesPage(driver);
+	  sp.clickSales();
+	  logger.info("Clicked on the Sales Menu item");
+		
+	}
+	
+	@When("Click on the Orders link")
+	public void click_on_the_Orders_link() {
+	   sp.clickOrders();
+	   logger.info("Clicked on the Orders Link");
+	}
+	
+	@When("Enter Email address {string}")
+	public void enter_Email_address(String mail) {
+	  sp.enterEmail(mail);
+	  logger.info("Configuring the email id");
+	}
+	
+	@When("Click on the Search button")
+	public void click_on_the_Search_button() {
+	  sp.clickSearch();
+	  logger.info("Clicked on the Serach button");
+	}
+	
+	@Then("Verify the Customer Order details")
+	public void verify_the_Customer_Order_details() throws Exception {
+	  sp.searchCustomerByEmail("victoria_victoria@nopCommerce.com");
+	  logger.info("Validated the Customer details");
+	}
+	
 }
